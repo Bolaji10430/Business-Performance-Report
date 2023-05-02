@@ -64,6 +64,14 @@ The key product of performance are biro, pencil, and A4 paper because, they main
 ![image](https://user-images.githubusercontent.com/124039605/235695103-ee43b916-b6d6-42f7-895c-9b5a77fc45b0.png)
 
 
+Notepad and stapler remain poor-performing products due to a drop in sales. It shows in the dashboard where there is dropped down in profit, revenue, and gross sales.
+there is no need for me to continue with the product if I still spend more on manufacturing costs, tax, and others while the results always end negatively.
+
+![image](https://user-images.githubusercontent.com/124039605/235700202-7b9d2aec-cdc2-49cb-9cfc-f2ace352dca7.png)
+
+
+
+
 
 
 
