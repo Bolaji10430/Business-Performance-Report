@@ -78,9 +78,11 @@ there is no need for me to continue with the product if I still spend more on ma
 * More investment should be put into the appearance and content of a notepad and there should be diversity in how they come. Fancy Diaries for teens should be put into production and pushed into the market. Diversity in production I believe can boost the want and need of Notepad, thereby increasing the Profit and Revenue.
 
 
+## INCONCLUSION
 
+In conclusion, in this Business Analyses Report, we could say there was an increase in general performance, from the year 2013 to 2014, also making Biro, Pencil and A4 Paper the most used product, simply because it’s a basic necessity.  The Tax rate across each of the evaluated section wasn’t really poor. Production rate and manufacture cost should be reviewed and reduced on Markers and Staplers, as they are not a day to day necessity, The world is going digital, more firms are switching to electronic devices. There should be more diversity in the production of Notepad, as Notepad(like personal journals and planners) is still a basic necessity……there are people who still like to write. With the whole analyses, the Business made great Profits and Revenue of ₦13.83M and #121.22M respectively, and Profit Margin 12.7%
 
-
+Disclaimer: This is a dummy dataset.
 
 
 
