@@ -47,12 +47,13 @@ Tax analysis on overall product. Biro pays the highest tax with a sum of 1,519,1
 ![image](https://user-images.githubusercontent.com/124039605/235690578-e5fa1b97-add1-441a-9bfb-aeab21386a11.png)
 
 ## DASHBOARD
+
 Overview on Product, States and Segment
-          PROFIT BY SEGMENT
+*          PROFIT BY SEGMENT
 Under profit by segment, small business had the highest profit with sum of 25,910,381 followed by government with sum of 8,748,902. while enterprise had the least profit with sum of 4,505,689.81. channel partner and mid market had a loss of profit respectively.
-         PROFIT BY PRODUCT
+*        PROFIT BY PRODUCT
 At the product level, biro maintain the highest profit level with sum of 28,863,808 followed by pencil with sum of 14,197,448.45 and A4 paper took third and a profit dropdown of -781,512.36 for marker. While notepad and stapler had loss of profit of -20,224,834 and -21,197,814.15 respectively.
-        PROFIT BY STATE
+*       PROFIT BY STATE
 Osun state maintain the highest profit level with sum of 3,519,817.70 followed by Ondo state 3,312,443.88 and Lagos came third with sum of 2,468,449.57 and followed by other state respectively.
 
 ![image](https://user-images.githubusercontent.com/124039605/235691414-bca7fde1-c9d1-4c97-8530-d8bdcaf7244a.png)
