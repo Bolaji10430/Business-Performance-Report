@@ -70,6 +70,12 @@ there is no need for me to continue with the product if I still spend more on ma
 ![image](https://user-images.githubusercontent.com/124039605/235700202-7b9d2aec-cdc2-49cb-9cfc-f2ace352dca7.png)
 
 
+## RECOMMENDATION
+
+* Biro, pencil, and A4 paper should be given more finance to produce more of the products because of their high level of performance.
+* Markers should also be given more attention because of the rise and fall of the profit and manufacturing cost of the products
+* Production of Stapler should be reduced, if not discontinued, because the percentage of consumer is low.
+* More investment should be put into the appearance and content of a notepad and there should be diversity in how they come. Fancy Diaries for teens should be put into production and pushed into the market. Diversity in production I believe can boost the want and need of Notepad, thereby increasing the Profit and Revenue.
 
 
 
