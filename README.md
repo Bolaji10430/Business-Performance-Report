@@ -33,11 +33,14 @@ At the state level, Ondo state maintain the highest tax level, followed by Lagos
 Quartely Analysis
 *  There is an increase in growth rate in Q4 2014 compared to Q4 2013.
 *  There is an increase in profit before tax of 12,605,269.93 and a profit after tax of 11,975,006.43. at the state level, Lagos state maintains the highest gross sales of 21,376,777.50 followed by Osun state with a sum of 20,500,791.
-*  Oyo state has the highest revenue level with a sum of 25,551,372.24 followed by Lagos state with a sum of 25,450,262.47 and the rest![image](https://user-
+*  Oyo state has the highest revenue level with a sum of 25,551,372.24 followed by Lagos state with a sum of 25,450,262.47 and the rest.
 
 ![image](https://user-images.githubusercontent.com/124039605/235683322-80c8ef4d-febd-4e71-9782-31d74e858f90.png)
 
+Tax Analysis on Product
+Tax analysis on overall product. Biro pays the highest tax with a sum of 1,519,147.82 followed by pencil with sum of 747,234.13.while  A4 paper pay the least tax of 682,681.24. there is drop in tax for marker with sum of -41,132.23 while notepad and stapler had a loss of tax of -1,064,464.99 and stapler have -1,115,674.43 respectively.
 
+![image](https://user-images.githubusercontent.com/124039605/235687228-cc5ec95c-a06d-4180-be44-8a629aae41c8.png)
 
 
 
