@@ -25,6 +25,12 @@ In performing this analysis, the dataset was processed to handle missing values,
 
 ## ANALYSIS
 
+Sales Segment Across various states
+At the state level, Ondo state maintain the highest tax level, followed by Lagos state, and  Oyo state while Ogun and Osun pays the least tax respectively
+
 ![Capture 5](https://user-images.githubusercontent.com/124039605/235680592-36845b50-742c-4a21-9fe6-09f92be83f28.PNG)
 
+Quartely Analysis
+
+![image](https://user-images.githubusercontent.com/124039605/235683322-80c8ef4d-febd-4e71-9782-31d74e858f90.png)
 
