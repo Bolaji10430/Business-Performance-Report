@@ -31,6 +31,9 @@ At the state level, Ondo state maintain the highest tax level, followed by Lagos
 ![Capture 5](https://user-images.githubusercontent.com/124039605/235680592-36845b50-742c-4a21-9fe6-09f92be83f28.PNG)
 
 Quartely Analysis
+*  There is an increase in growth rate in Q4 2014 compared to Q4 2013.
+*  There is an increase in profit before tax of 12,605,269.93 and a profit after tax of 11,975,006.43. at the state level, Lagos state maintains the highest gross sales of 21,376,777.50 followed by Osun state with a sum of 20,500,791.
+*  Oyo state has the highest revenue level with a sum of 25,551,372.24 followed by Lagos state with a sum of 25,450,262.47 and the rest![image](https://user-
 
 ![image](https://user-images.githubusercontent.com/124039605/235683322-80c8ef4d-febd-4e71-9782-31d74e858f90.png)
 
