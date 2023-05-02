@@ -59,6 +59,12 @@ Osun state maintain the highest profit level with sum of 3,519,817.70 followed b
 ![image](https://user-images.githubusercontent.com/124039605/235691414-bca7fde1-c9d1-4c97-8530-d8bdcaf7244a.png)
 
 
+The key product of performance are biro, pencil, and A4 paper because, they maintain the highest level of profit, revenue, and gross sales which contributed to the growth of the organization. Despite more expense in tax and manufacturing costs, they still strive to yield more positive results to the organization.
+
+![image](https://user-images.githubusercontent.com/124039605/235695103-ee43b916-b6d6-42f7-895c-9b5a77fc45b0.png)
+
+
+
 
 
 
